@@ -1,0 +1,47 @@
+// 윤석열
+
+{
+  "candidate": { "$oid": "61bbd3d55c7f608c066993df" },
+  "urls": [
+    "https://www.youtube.com/watch?v=6jTG90PTl8Y",
+    "https://www.youtube.com/watch?v=RBa_64ALkPA",
+    "https://www.youtube.com/watch?v=ZNTJiDq0C-E",
+    "https://www.youtube.com/watch?v=vFf_oZCC6B0"
+  ]
+}
+
+// 이재명
+{
+    "candidate": { "$oid": "61bbd3d55c7f608c066993de" },
+    "urls": [
+      "https://www.youtube.com/watch?v=0OIKk0T6GLg",
+      "https://www.youtube.com/watch?v=3BIXN4AbgFA",
+      "https://www.youtube.com/watch?v=hDByHNMILxA",
+      "https://www.youtube.com/watch?v=FllSr8TMb8s"
+    ]
+  }
+
+  
+  // 안철수
+{
+    "candidate": { "$oid": "61bbd3d55c7f608c066993e1" },
+    "urls": [
+        "https://www.youtube.com/watch?v=bW8o7jnHVQA",
+        "https://www.youtube.com/watch?v=GYwoTGlfdrQ",
+        "https://www.youtube.com/watch?v=-lI4RnjE8QY",
+        "https://www.youtube.com/watch?v=7ub_XwGSEYA"
+    ]
+  }
+
+  
+  // 심상정
+{
+    "candidate": { "$oid": "61bbd3d55c7f608c066993e0" },
+    "urls": [
+        "https://www.youtube.com/watch?v=bDa6GoMXY0c",
+        "https://www.youtube.com/watch?v=gTQ5X9LkNW0",
+        "https://www.youtube.com/watch?v=abkeqrzxyDg",
+        "https://www.youtube.com/watch?v=t9nTU5H3bHw"
+    ]
+  }
+  
